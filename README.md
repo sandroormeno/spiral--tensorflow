@@ -1,5 +1,5 @@
 # spiral-tensorflow
 
-Tres datos dritibuidos en espiral. El entremaniento se visualiza en aniamción
+Tres datos distibuidos en espiral. El entremaniento se visualiza en aniamciÃ³n
 
-<img src="https://github.com/lopeLH/LSTM-TensorFlow/blob/master/exampleRun.gif" width=600 />
+<img src="https://github.com/sandroormeno/spiral--tensorflow/4-model-tensorflow.gif" width=600 />
